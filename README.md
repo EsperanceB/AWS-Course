@@ -1,4 +1,4 @@
-# 🚀 AWS Getting Started Course for Beginners
+# AWS Getting Started Course for Beginners
 
 Welcome to the AWS Getting Started Course! This beginner-friendly guide walks you through the core concepts, tools, and services of Amazon Web Services. Whether you're launching your first EC2 instance or exploring cloud-native architecture, this course is designed to help you build confidently from day one.
 
